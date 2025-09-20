@@ -10,6 +10,7 @@ export default function Home() {
       <SignedIn>
         <UserButton />
       </SignedIn>
+      
     </div>
   );
 }
